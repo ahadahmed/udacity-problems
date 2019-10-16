@@ -59,6 +59,36 @@ class LinkedList:
 
         return values
 
+    def remove(self, value):
+        """ Remove first occurrence of value. """
+
+        # TODO: Write function to remove here
+
+        pass
+
+    def pop(self):
+        """ Return the first node's value and remove it from the list. """
+
+        # TODO: Write function to pop here
+
+        pass
+
+    def insert(self, value, pos):
+        """ Insert value at pos position in the list. If pos is larger than the
+            length of the list, append to the end of the list. """
+
+        # TODO: Write function to insert here
+
+        pass
+
+    def size(self):
+        """ Return the size or length of the linked list. """
+
+
+        # TODO: Write function to get size here
+
+        pass
+
 
 # Test prepend
 linked_list = LinkedList()
